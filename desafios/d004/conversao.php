@@ -11,7 +11,7 @@
 <body>
     <main>
 
-        <h1>Conversor de Moedas:</h1>
+        <h1>Conversor de Moedas v2:</h1>
 
         <?php
 
@@ -31,7 +31,9 @@
 
         $padrão = numfmt_create("pt_BR", NumberFormatter::CURRENCY);
 
-        echo "<p>Seus " . numfmt_format_currency($padrão, $real, "BRL") . " equivalem a <strong>" . numfmt_format_currency($padrão, $dólar, "USD") . "</strong></p>";
+        echo "<p>Seus " . numfmt_format_currency($padrão, $real, "BRL") . " equivalem a <strong>" . numfmt_format_currency($padrão, $dólar, "USD"),'*' . "</strong></p>";
+
+        echo " <p class='paragraph' ><strong>*</strong>Cotação obtida diretamente do site do <strong><a href='https://dadosabertos.bcb.gov.br/' target='_blank'>Banco Central do Brasil</a></strong> </p> ";
         ?>
         <button onclick="javascript:history.go(-1)">Retornar</button>
     </main>
