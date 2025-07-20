@@ -3,7 +3,8 @@
 <h2>Desafios:</h2>
 <p>d001 - Antecessor e sucessor!</p>
 <h2>Exercícios:</h2>
-<p>ex001 - Me livrando da Maldição!</p>
+<p>ex000 - Me livrando da Maldição!</p>
+<p>ex001 - Dados do servidor!</p>
 
 
 
