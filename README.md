@@ -2,6 +2,7 @@
 
 <h2>Desafios:</h2>
 <p>d001 - Antecessor e sucessor!</p>
+<p>d002 - Sorteador de números!</p>
 <h2>Exercícios:</h2>
 <p>ex000 - Me livrando da Maldição!</p>
 <p>ex001 - Dados do servidor!</p>
