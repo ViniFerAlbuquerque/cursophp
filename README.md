@@ -5,6 +5,7 @@
 <p>d002 - Sorteador de números!</p>
 <p>d003 - Conversor de Moedas v.1!</p>
 <p>d004 - Conversor de Moedas v.2!</p>
+<p>d005 - Analisador de Número Real!</p>
 <h2>Exercícios:</h2>
 <p>ex000 - Me livrando da Maldição!</p>
 <p>ex001 - Dados do servidor!</p>
