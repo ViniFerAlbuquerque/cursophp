@@ -9,6 +9,7 @@
 <p>d006 - Anatomia de uma divisão!</p>
 <p>d007 - Salário Mínimo!</p>
 <p>d008 - Informe seu número predileto!</p>
+<p>d009 - Médias Aritméticas!</p>
 
 <h2>Exercícios:</h2>
 <p>ex000 - Me livrando da Maldição!</p>
