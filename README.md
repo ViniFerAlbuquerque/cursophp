@@ -11,6 +11,7 @@
 <p>d008 - Informe seu número predileto!</p>
 <p>d009 - Médias Aritméticas!</p>
 <p>d010 - Calculando a sua idade!</p>
+<p>d011 - Reajustador de Preços!</p>
 
 <h2>Exercícios:</h2>
 <p>ex000 - Me livrando da Maldição!</p>
