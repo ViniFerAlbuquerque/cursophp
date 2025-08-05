@@ -13,6 +13,7 @@
 <p>d010 - Calculando a sua idade!</p>
 <p>d011 - Reajustador de Preços!</p>
 <p>d012 - Calculadora de tempo!</p>
+<p>d013 - Caixa Eletrônico!</p>
 
 <h2>Exercícios:</h2>
 <p>ex000 - Me livrando da Maldição!</p>
