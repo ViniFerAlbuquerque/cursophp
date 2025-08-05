@@ -6,6 +6,15 @@
 <p>d003 - Conversor de Moedas v.1!</p>
 <p>d004 - Conversor de Moedas v.2!</p>
 <p>d005 - Analisador de Número Real!</p>
+<p>d006 - Anatomia de uma divisão!</p>
+<p>d007 - Salário Mínimo!</p>
+<p>d008 - Informe seu número predileto!</p>
+<p>d009 - Médias Aritméticas!</p>
+<p>d010 - Calculando a sua idade!</p>
+<p>d011 - Reajustador de Preços!</p>
+<p>d012 - Calculadora de tempo!</p>
+<p>d013 - Caixa Eletrônico!</p>
+
 <h2>Exercícios:</h2>
 <p>ex000 - Me livrando da Maldição!</p>
 <p>ex001 - Dados do servidor!</p>
