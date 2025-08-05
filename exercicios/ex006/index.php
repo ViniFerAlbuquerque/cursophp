@@ -32,6 +32,7 @@
     </section>
     <footer>
         <h3>&copy;ViniFerAlbuquerque</h3>
+        <a href="javascript:history.back()">Voltar</a>
     </footer>
 </body>
 

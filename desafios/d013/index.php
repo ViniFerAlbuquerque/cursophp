@@ -60,6 +60,8 @@
             <li><img src="assets/5-reais.jpg" alt="Nota de 5" class="nota"> x<?=$tot5?></li>
         </ul>
     </section>
+
+    <a href="javascript:history.back()">Voltar</a>
 </body>
 
 </html>

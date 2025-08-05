@@ -9,7 +9,7 @@
 <body>
 
     <?=
-       $total = $_REQUEST['seg'] ?? 0;
+       $total = $_GET['seg'] ?? 0;
     ?>
 
     <main>
@@ -50,5 +50,6 @@
             <li><?=$segundo?> segundos</li>
         </ul>
     </section>
+    <a href="javascript:history.back()">Voltar</a>
 </body>
 </html>
